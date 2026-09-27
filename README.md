@@ -6,7 +6,7 @@ A single-page personal portfolio for **Vaishnavi Shelke**, Integrated B.Tech Com
 
 ## Preview
 
-![Resume preview](assets/resume-preview.jpg)
+![Resume preview](assets/resume-preview.jpg) 
 
 ## Features
 
